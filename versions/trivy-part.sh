@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Default values
-input_folder="mbank4-output"
+input_folder="SBOM-outputs"
 
 # Parse command-line parameters
 while getopts "i:" opt; do
