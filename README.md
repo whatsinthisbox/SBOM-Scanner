@@ -14,3 +14,5 @@ Usage:
 ./sbom-scan.sh -i /root/docker_image_list.txt -o some_folder
 
 ./trivy-scan.sh -i some_folder
+
+#ubuntu #docker #vulnerability #secops #devsecops
